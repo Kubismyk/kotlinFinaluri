@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">finaluri2</string>
+    <string name="mainLabelVchao">mainLabelVcao</string>
+    <string name="sachmeliName">--------</string>
+    <string name="dghes">დღეს</string>
+    <string name="damaklike">დამაკლიკე</string>
+    <string name="ra">რა</string>
+    <string name="googleIt">google it</string>
+    <string name="vchamo">ვჭამო</string>
+</resources>
